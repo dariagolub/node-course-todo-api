@@ -17,7 +17,12 @@
     "serve-favicon": "~2.4.2"
   },
   "main": "app.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.5.0",
+    "nodemon": "^1.11.0",
+    "supertest": "^3.0.0"
+  },
   "author": "",
   "license": "ISC",
   "description": ""
